@@ -1,0 +1,4 @@
+twilio==6.23.1
+praw==6.0.0
+Flask==1.0.2
+gunicorn==19.9.0
